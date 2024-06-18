@@ -1,5 +1,5 @@
 ## Hi there 👋
-#Hola Soy Sergio
+Hola Soy Sergio
 <!--
 **gonzalezrivera/gonzalezrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
