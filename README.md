@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
-- 📫 How to reach me | `Gmail` | `gmail` |**gonzalez.rivera.sa@gmail.com**
+- 📫 How to reach me | `Gmail` | **gonzalez.rivera.sa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
