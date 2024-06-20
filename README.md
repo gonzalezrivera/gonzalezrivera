@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sergio-gonz%C3%A1lez-712863314/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/gonz%C3%A1lez-rivera/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
