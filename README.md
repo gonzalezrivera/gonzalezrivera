@@ -1,7 +1,7 @@
 [![Portada de mi perfil](Knowledge.png)](#)
 
-<h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A passionate Data Analyst from México</h3>
+<h1 align="left">Hi 👋, I'm Sergio</h1>
+<h3 align="left">A passionate Data Analyst from México</h3>
 
 - 🔭 I’m currently working on **Improving Operational Efficiency: An Airline Case Study**
 
