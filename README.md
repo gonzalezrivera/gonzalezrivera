@@ -1,5 +1,5 @@
 [![Portada de mi perfil](Knowledge.png)](#)
-Knowledge.png
+
 <h1 align="center">Hi 👋, I'm Sergio</h1>
 <h3 align="center">A passionate Data Analyst from México</h3>
 
