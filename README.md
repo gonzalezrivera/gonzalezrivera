@@ -3,13 +3,13 @@
 <h1 align="left">Hi 👋, I'm Sergio</h1>
 <h3 align="left">A passionate Data Analyst from México</h3>
 
-- 🔭 I’m currently working on **Improving Operational Efficiency: An Airline Case Study**
+-  I’m currently working on **Improving Operational Efficiency: An Airline Case Study**
 
-- 🌱 I’m currently learning **Machine Learning & Mongo DB**
+-  I’m currently learning **Machine Learning & Mongo DB**
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+-  I’m looking to collaborate on **Data Analytics Projects**
 
-- 📫 How to reach me  **gonzalez.rivera.sa@gmail.com**
+-  How to reach me  **gonzalez.rivera.sa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
